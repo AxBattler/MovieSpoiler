@@ -1,0 +1,13 @@
+
+
+body {
+  background-color: violet;
+}
+
+.spoil-protect {
+  background-color: violet;
+  color: violet;
+}
+.spoil-protect:hover {
+  background-color: white;
+}
